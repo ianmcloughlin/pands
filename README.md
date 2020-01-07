@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Programming and Scripting
 
 You can use the [editor on GitHub](https://github.com/ianmcloughlin/pands/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
